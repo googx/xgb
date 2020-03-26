@@ -1,2 +1,58 @@
+*.iml
+*.swp
+*.ipr
+*.iws
+*.jpg
+.idea/
+*.exe
+*.o
+*.tar.gz
+.tmp/
+nohup.out
+*.log
+*.logs
+logs/
+output.txt
+__pycache__
+debug-*.json
+pkg/
+# wps and office
+~$*.docx
+~$*.doc
+~$*.xls
+~$*.xlsx
+~$*.ppt
+~$*.pptx
+.~lock*
+# wps office
+.ideaDataSources/
+dataSources/
+*.zip
+*.tar
+# c,cpp,go库文件.
+*.so
+*.h
+*.dll
+*.lib
+*.s
+
+# grpc相关
+
+
+vendor/
+
+# webAssembly 相关
+
+*.wasm
+
+#cpp or c error file.
+core
+*.a
+# 项目环境
+
+*.time
+*.tmp
+
+node_modules/
+
 xgbgen/xgbgen
-.*.swp
